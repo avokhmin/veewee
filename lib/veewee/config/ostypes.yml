@@ -253,6 +253,11 @@ SLES11:
   :fusion: sles11
 SLES11_64:
   :fusion: sles11-64
+Rosa:
+  :fusion: rosa
+  :kvm:
+  :vbox: Rosa
+  :parallels: fedora-core
 Fedora:
   :fusion: fedora
   :kvm:
